@@ -2,9 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=26B13A&center=true&vCenter=true&random=false&width=435&lines=Hey+there+Im+Hermez+Abderrahim" />
 </h1>
 
-#### passionate cs enginner stuent ,`full stack developer` and `UI/UX designer` 
-
-##### I'm just as adept at kicking bugs out of code as I am at kicking in the dojo! 🥋💻
+### passionate cs enginner stuent ,`full stack developer` and `UI/UX designer` 
+### I'm just as adept at kicking bugs out of code as I am at kicking in the dojo! 🥋💻
 
 
 ## Contributions
